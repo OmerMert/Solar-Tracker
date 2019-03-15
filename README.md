@@ -1,1 +1,0 @@
-# Solar-Tracker with arduino
